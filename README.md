@@ -6,9 +6,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelabaseggio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isabela_ribas/)
 
-
-![Baseggio's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelaBaseggio&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaBaseggio&layout=compact&theme=tokyonight)](https://github.com/IsabelaBaseggio/github-readme-stats)
+<div>
+ <a href="https://github.com/IsabelaBaseggio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsabelaBaseggio&show_icons=true&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaBaseggio&layout=compact&theme=tokyonight">
+</div>
 
 ## Tecnologias que eu utilizo
 
