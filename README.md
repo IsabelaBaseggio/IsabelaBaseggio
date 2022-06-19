@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isabela_ribas/)
 
 
-![Baseggio GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelaBaseggio&show_icons=true&theme=tokyonight)
+![Baseggio's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelaBaseggio&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaBaseggio&layout=compact&theme=tokyonight)](https://github.com/IsabelaBaseggio/github-readme-stats)
 
 ## Tecnologias que eu utilizo
